@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\gonzo\\Documents\\GitHub\\nft-marketplace\\contracts\\NFTMarketplace.sol": {
-      "lastModificationDate": 1671084077649,
-      "contentHash": "1a29a0acccade14233df1901679e2652",
+      "lastModificationDate": 1671090927257,
+      "contentHash": "0b6b278d75c396160a6b86aedee15a94",
       "sourceName": "contracts/NFTMarketplace.sol",
       "solcConfig": {
         "version": "0.8.4",

@@ -1,5 +1,5 @@
 {
-  "name": "polygon-next",
+  "name": "nft-marketplace",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,5 +29,9 @@
     "eslint-config-next": "11.0.1",
     "postcss": "^8.3.5",
     "tailwindcss": "^2.2.4"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/InvictaLux/nft-marketplace.git",
+  "author": "invictalux <egoluxinvicta@gmail.com>",
+  "license": "MIT"
 }
